@@ -1,0 +1,15 @@
+This game has 4 stages:
+
+stage 0:
+    Introduction
+    Player starts with 15 Health
+
+stage 1:
+    Attack a guard who has 10 health. You take turn swinging randint(1,5) at eachother until a victor arises.
+
+stage 2:
+    Get to town and receive 2 full heal potions
+
+stage 3:
+    Fight a boss who has 15 health and swings at you for randint(1,8)
+    You may use a heal or attack at each attack phase
